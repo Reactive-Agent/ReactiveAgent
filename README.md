@@ -1,5 +1,7 @@
 # ReactiveAgent
 
+Check our official repo here: https://github.com/songlinxu/CogReact
+
 ## Overview
 
 This repo is composed of three parts:
